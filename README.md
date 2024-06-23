@@ -22,7 +22,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="30" alt="WP logo"  />
 	<img width="12" />
   <img src="https://damiandeluca.com.ar/wp-content/uploads/2020/04/slack.png" height="30" alt="WP logo"  />
- 
+	<img width="12" />
+  <img src="https://sofkia.es/wp-content/uploads/2022/04/BusinessCentralLogo.png" height="30" alt="WP logo"  />
+	<img width="12" />
+  <img src="https://demiliani.com/wp-content/uploads/2022/12/allogo.png" height="30" alt="WP logo"  />
+	
 </div>
 
 ###
