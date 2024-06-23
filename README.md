@@ -20,7 +20,6 @@
   <img src="https://phenixsoft.com/images/api_integration/shopify-bag.webp" height="30" alt="Shopify logo"  />
 </div>
 <div align="left">
-	
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="30" alt="WP logo"  />
 	<img width="12" />
   <img src="https://damiandeluca.com.ar/wp-content/uploads/2020/04/slack.png" height="30" alt="WP logo"  />
@@ -28,6 +27,14 @@
   <img src="https://sofkia.es/wp-content/uploads/2022/04/BusinessCentralLogo.png" height="30" alt="WP logo"  />
 	<img width="12" />
   <img src="https://demiliani.com/wp-content/uploads/2022/12/allogo.png" height="30" alt="WP logo"  />
+ 	 <img width="12" />
+  <img src="https://alternative.me/media/256/microsoft-visual-studio-icon-nz1so3jyh2c3a7r4-c.png" height="30" alt="WP logo"  />
+  	 <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" height="30" alt="WP logo"  />
+  	 <img width="12" />
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/electron.png" height="30" alt="WP logo"  />
+  	 <img width="12" />
+  <img src="https://cdn-1.webcatalog.io/catalog/microsoft-azure/microsoft-azure-icon-filled-256.png?v=1714773054674" height="30" alt="WP logo"  />
 	
 </div>
 
