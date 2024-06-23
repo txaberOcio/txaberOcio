@@ -7,7 +7,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_eQHtK6IL2-5pDSQmXBUPMynchcNKm9i8g&s" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://d2m06gn7cjwia2.cloudfront.net/mysql.png" height="30" alt="myqsl logo"  />
+  <img src="https://tecnologia.uniandes.edu.co/wp-content/uploads/2023/06/Mysql-Server-8.0-logo.png" height="30" alt="myqsl logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
