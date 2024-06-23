@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 	<img width="12" />
   <img src="https://phenixsoft.com/images/api_integration/shopify-bag.webp" height="30" alt="Shopify logo"  />
+</div>
+<div align="left">
 	<img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="30" alt="WP logo"  />
 	<img width="12" />
