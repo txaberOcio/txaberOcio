@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://static.wikia.nocookie.net/dragonball/images/b/b2/Krilin_DB_Artwork.png/revision/latest?cb=20161216144931&path-prefix=es">
 
 <!--
 **txaberOcio/txaberOcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
