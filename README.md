@@ -1,15 +1,11 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<h2 align="left">Crilin is now a programmer. Here you can see what he has done</h2>
 ###
-
 <img align="right" height="150" src="https://gifdb.com/images/high/dragon-ball-krilin-teasing-yuk7wvrnwc7l5v7f.gif"  />
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn-1.webcatalog.io/catalog/dev-java/dev-java-icon-filled-256.png?v=1714776949740" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
