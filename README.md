@@ -1,24 +1,14 @@
-<link rel="stylesheet" src="style.css">
-<div class="image-right">
-	<img src="https://static.wikia.nocookie.net/dragonball/images/b/b2/Krilin_DB_Artwork.png/revision/latest?cb=20161216144931&path-prefix=es">
-	<div>
-		<p>The Human Rights Logo has its origin in the international “Logo for Human Rights” initiative, which was started in 2010. Its goal was to create an internationally recognized logo to support the global human rights movement. The winning logo was created by Predrag Stakić from Serbia.</p>
-		<footer>(from Wikipedia)</footer>
-	</div>
+<div class="container text-center">
+  <div class="row">
+    <div class="col">
+      <img src="https://static.wikia.nocookie.net/dragonball/images/b/b2/Krilin_DB_Artwork.png/revision/latest?cb=20161216144931&path-prefix=es">
+    </div>
+    <div class="col">
+      <img src="https://static.wikia.nocookie.net/dragonball/images/b/b2/Krilin_DB_Artwork.png/revision/latest?cb=20161216144931&path-prefix=es">
+    </div>
+    <div class="col">
+      <img src="https://static.wikia.nocookie.net/dragonball/images/b/b2/Krilin_DB_Artwork.png/revision/latest?cb=20161216144931&path-prefix=es">
+    </div>
+  </div>
 </div>
-
-
-<!--
-**txaberOcio/txaberOcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
