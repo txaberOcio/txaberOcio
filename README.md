@@ -20,6 +20,8 @@
   <img src="https://phenixsoft.com/images/api_integration/shopify-bag.webp" height="30" alt="Shopify logo"  />
 	<img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="30" alt="WP logo"  />
+	<img width="12" />
+  <img src="https://damiandeluca.com.ar/wp-content/uploads/2020/04/slack.png" height="30" alt="WP logo"  />
  
 </div>
 
