@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://gifdb.com/images/high/dragon-ball-krilin-teasing-yuk7wvrnwc7l5v7f.gif)"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://gifdb.com/images/high/dragon-ball-krilin-teasing-yuk7wvrnwc7l5v7f.gif"  />
 
 ###
 
