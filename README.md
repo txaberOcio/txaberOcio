@@ -1,4 +1,4 @@
-<h2 align="left">Crilin is now a programmer. Here you can see what he has done</h2>
+<h2 align="left">Krilin is now a programmer. Here you can see what he has done</h2>
 
 <img align="right" height="150" src="https://gifdb.com/images/high/dragon-ball-krilin-teasing-yuk7wvrnwc7l5v7f.gif"  />
 
