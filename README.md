@@ -1,56 +1,62 @@
 <h2 align="left">Krilin is now a programmer. Here you can see what he has done</h2>
 
-<img align="right" height="150" src="https://gifdb.com/images/high/dragon-ball-krilin-teasing-yuk7wvrnwc7l5v7f.gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/dragon-ball-krilin-teasing-yuk7wvrnwc7l5v7f.gif"/>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_eQHtK6IL2-5pDSQmXBUPMynchcNKm9i8g&s" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://tecnologia.uniandes.edu.co/wp-content/uploads/2023/06/Mysql-Server-8.0-logo.png" height="30" alt="myqsl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-	<img width="12" />
-  <img src="https://phenixsoft.com/images/api_integration/shopify-bag.webp" height="30" alt="Shopify logo"  />
-</div>
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="30" alt="WP logo"  />
-	<img width="12" />
-  <img src="https://damiandeluca.com.ar/wp-content/uploads/2020/04/slack.png" height="30" alt="WP logo"  />
-	<img width="12" />
-  <img src="https://sofkia.es/wp-content/uploads/2022/04/BusinessCentralLogo.png" height="30" alt="WP logo"  />
-	<img width="12" />
-  <img src="https://demiliani.com/wp-content/uploads/2022/12/allogo.png" height="30" alt="WP logo"  />
- 	 <img width="12" />
-  <img src="https://alternative.me/media/256/microsoft-visual-studio-icon-nz1so3jyh2c3a7r4-c.png" height="30" alt="WP logo"  />
-  	 <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" height="30" alt="WP logo"  />
-  	 <img width="12" />
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/electron.png" height="30" alt="WP logo"  />
-  	 <img width="12" />
-  <img src="https://cdn-1.webcatalog.io/catalog/microsoft-azure/microsoft-azure-icon-filled-256.png?v=1714773054674" height="30" alt="WP logo"  />
-	
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="30"/>
 </div>
 
-###
+<br/>
 
 <div align="left">
-	<a target="_blank" href="https://discord.gg/38pXx7Wc" >
-		<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-	</a>
-	<a target="_blank" href="mailto:txaberocio@gmail.com" >
-	 	<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-	</a>
-	<a target="_blank" href="https://www.linkedin.com/in/txaber-ocio-web-developer/" >
-		<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-	</a>
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30"/>
+  <img width="12"/>
+  <!-- Business Central (no está en devicon oficial, usamos simple icons) -->
+  <img src="https://cdn.simpleicons.org/microsoftdynamics365" height="30"/>
+  <img width="12"/>
+  <!-- AL (Business Central language) -->
+  <img src="https://cdn.simpleicons.org/microsoft" height="30"/>
+  <img width="12"/>
+  <!-- OpenCode -->
+  <img src="https://cdn.simpleicons.org/opencode" height="30"/>
 </div>
 
-###
-	
+<br/>
+
+<div align="left">
+  <a target="_blank" href="https://discord.gg/38pXx7Wc">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge"/>
+  </a>
+  <a target="_blank" href="mailto:txaberocio@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge"/>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/txaber-ocio-web-developer/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge"/>
+  </a>
+</div>
